@@ -7,7 +7,7 @@
 </p>
 <p>My goal is to learn new things everyday and what keeps me passionate about tech is that there is always something new to learn.
 </p>
-<p>Currently I am studying Node.js, React and RestFul architecture.
+<p>Currently I am studying Node.js, React,Vuejs and RestFul architecture.
 </p>
 <center>
 <table>
